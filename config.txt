@@ -88,5 +88,5 @@
   "eventsURL": "",
   "apiURL":"https://musapi.free.beeceptor.com",
   "epStore":"/store",
-  "epLocalization":"/loc",
+  "epLocalization":"/loc"
 }
